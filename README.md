@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Verma</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<!-- <img src="https://res.cloudinary.com/dd3yp2kob/video/upload/v1738732413/Web_developer_working_on_Project_Coding_lz7crt.mp4" alt="aman0413" align="right" width="400px" /> -->
+<img src="https://res.cloudinary.com/dd3yp2kob/image/upload/v1738732632/WebdeveloperworkingonProjectCoding-ezgif.com-video-to-gif-converter_fqbpt0.gif" alt="aman0413" align="right" width="400px" />
 
-<video width="400" controls>
-  <source src="https://res.cloudinary.com/dd3yp2kob/video/upload/v1738732413/Web_developer_working_on_Project_Coding_lz7crt.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aman0413&label=Profile%20views&color=0e75b6&style=flat" alt="aman0413" /> </p>
 
